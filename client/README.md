@@ -1,8 +1,10 @@
-# React + Vite
+# Dall-e-clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is repo cotaining the clone of [Dall-e](https://openai.com/blog/dall-e/) model by OpenAI.
 
-Currently, two official plugins are available:
+## Tech Stack Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Node.js
+- Express.js
+- MongoDB
